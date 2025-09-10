@@ -1,4 +1,4 @@
-
+-- OBS: Em suma, eu alterei a tabela de BACKUP sempre por medo de fazer alguma besteira!
 
 INSERT INTO tb_Paciente
 VALUES (55, 'Kaua Cardoso',  'M', '22-02-2006', 'Rua Não-te-Interessa', 'Sorocaba', '19', '22.00');
