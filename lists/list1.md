@@ -29,6 +29,12 @@ An academic repository destiny to learn some concepts and sintaxes of SQL Develo
     8. Delete appointment 200 only if the appointment value field is zero.
   
     9. Delete patient code 55.
+
+    10. Delete all female patients from the city of Sorocaba.
+
+    11. Change the discount field for all female patients over 60 to 'S'.
+
+    12. Create a new field in the patient table to record the patient's cell phone number. This field should be varchar2(15). Enter the patient's phone number in this new field.
 ---
 
 
