@@ -3,5 +3,5 @@
 
 ---
 
-### [LIST 01 - BASIC COMMANDS](https://github.com/kauanzin222/DataBase-Activities/blob/main/list1.md)
+### [LIST 01 - BASIC COMMANDS](https://github.com/kauanzin222/DataBase-Activities/blob/main/lists/list1.md)
   
