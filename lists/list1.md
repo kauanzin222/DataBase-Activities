@@ -1,9 +1,7 @@
 # FATEC SOROCABA
   
 # LIST 01 - SQL 🔐
-An academic repository destiny to learn some concepts and sintaxes of SQL Developer (Oracle).
-  
-
+An academic repository destiny to learn some concepts and sintaxes of SQL Developer (Oracle). [Click here to see the resolution script](https://github.com/kauanzin222/DataBase-Activities/blob/main/lists/script_list1.sql).
   
 ### Prepare the database for the tests to be performed as follows:
 
