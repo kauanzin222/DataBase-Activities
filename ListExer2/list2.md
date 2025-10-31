@@ -1,4 +1,5 @@
 # Creating Views in Oracle 🔨
+## FATEC – ADS - Database Laboratory 🎲
 
 Based on the tables **``categories, manufacturers, products, sales, and customers``**, create the following Views in Oracle:
 
@@ -6,7 +7,7 @@ Based on the tables **``categories, manufacturers, products, sales, and customer
   Create a View named ``vw_produtos_eletronicos`` that lists the name and unit price of all products in the 'Electronics' category.
   ```sql
 CREATE VIEW vw_produtos_eletronicos AS
-SELECT  p.NOME_PRODUTO, p.PRECO_UNITARIO 
+SELECT  p.NOME_PRODUTO, p.PRECO_UNITARIO
 FROM PRODUTOS p
     inner join CATEGORIAS c on (c.id_categoria = p.id_categoria)
 WHERE c.nome_categoria = 'Eletrônicos';

@@ -106,9 +106,6 @@ WHERE codcta = 10105;
 SELECT * FROM idcodcta_bkp2;
 
 
-
-
-
 --Criando uma tabela Paciente e inserindo dados nela conforme LISTA 01
 CREATE TABLE Paciente (
     Codigo number(5) PRIMARY KEY,
